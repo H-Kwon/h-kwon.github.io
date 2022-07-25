@@ -24,7 +24,7 @@ I moved from Korea to the Netherlands in 2016 and these are where I have worked 
 ![TUe](/assets/images/tue_logo2.png){ align=left, width="130" }
 ``` markdown title="Eindhoven University of Technology | DevOps Engineer"
 Eindhoven, Netherlands
-July 22 ~ Present
+July 2022 ~ Present
 
 - Developing and maintaining Research Data Management System
 ```
