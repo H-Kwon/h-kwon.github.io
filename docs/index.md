@@ -36,7 +36,7 @@ July 2023 ~ Present
 
 ``` markdown title="Eindhoven University of Technology | DevOps Engineer"
 Eindhoven, Netherlands
-July 2022 ~ Present
+July 2022 ~ June 2023
 
 - Designed and implemented RDM (Research Data Management) solutions
 ```
