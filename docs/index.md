@@ -21,17 +21,30 @@ I moved from Korea to the Netherlands in 2016 and these are where I have worked 
 
 ---
 
+![TUDelft](/assets/images/TUDelft_logo_white_crop.png){ align=left, width="110" }
+
+``` markdown title="Delft University of Technology | Software Engineer"
+Delft, Netherlands
+July 2023 ~ Present
+
+- Maintain and extend the data repository to serve the needs of the research community
+```
+
+---
+
 ![TUe](/assets/images/tue_logo2.png){ align=left, width="130" }
+
 ``` markdown title="Eindhoven University of Technology | DevOps Engineer"
 Eindhoven, Netherlands
 July 2022 ~ Present
 
-- Developing and maintaining Research Data Management System
+- Designed and implemented RDM (Research Data Management) solutions
 ```
 
 ---
 
 ![Connecterra](/assets/images/connecterra_logo0.png){ align=left, width="150" }
+
 ``` markdown title="Connecterra | Site Reliability Engineer"
 Amsterdam, Netherlands
 Sep 2019 ~ Jun 2022 ( 2 years 10 months )
@@ -46,6 +59,7 @@ Sep 2019 ~ Jun 2022 ( 2 years 10 months )
 ---
 
 ![KakaoGamesEurope](/assets/images/kakao_games_logo.png){ align=left, width="150" }
+
 ``` markdown title="Kakao Games Europe | DevOps Engineer"
 Amsterdam, Netherlands
 Oct 2016 ~ Aug 2018 ( 1 year 11 months )
